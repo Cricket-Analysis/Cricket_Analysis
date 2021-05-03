@@ -6,7 +6,7 @@ In the database that you created for the Mini Project, formulate and execute eac
 
 1.File named cricket_analysis.sql should contain the complete script with which you constructed your database (i.e., all CREATE and all INSERT statements).
 
-2.File SQL querries.pdf contains all the the DBMS querries.
+2.File SQL querries.pdf contains all the the DBMS questions.
 
 3.Folder Output_Images contains all the images of  the output of the execution of the script cricket_analysis.sql.
 
