@@ -10,6 +10,8 @@ In the database that you created for the Mini Project, formulate and execute eac
 
 3.Folder Output_Images contains all the images of  the output of the execution of the script cricket_analysis.sql.
 
+4.Image cricket_stats_er.jpg contains the ER Diagram of the database.
+
 **RUN THE QUERIES:**
 1. To display all the matches and their outcomes in the data base
 2. To display total matches, avg won, avr tied, avg no result, runs per match, wkts per match in Indian Stadiums
