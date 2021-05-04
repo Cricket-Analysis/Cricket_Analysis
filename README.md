@@ -32,4 +32,4 @@ In the database that you created for the Mini Project, formulate and execute eac
 17. To count all the duplicate values from the column “Player_id” from the table batsman data.
 18. To to display mdns and runs where sr is greater than 15.6 and order by start_date.
 19. To display overs and runs where runs are maximum using max function.
-20. To display Match_ID, Country, start_date, overs, Runs, SR, Wkts, Ave, Result and margin using EquiJoin between two tables
+20. To display Match_ID, Country, start_date, overs, Runs, SR, Wkts, Ave, Result and margin using EquiJoin between two tables 
