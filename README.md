@@ -32,4 +32,14 @@ In the database that you created for the Mini Project, formulate and execute eac
 17. To count all the duplicate values from the column “Player_id” from the table batsman data.
 18. To to display mdns and runs where sr is greater than 15.6 and order by start_date.
 19. To display overs and runs where runs are maximum using max function.
-20. To display Match_ID, Country, start_date, overs, Runs, SR, Wkts, Ave, Result and margin using EquiJoin between two tables 
+20. To display Match_ID, Country, start_date, overs, Runs, SR, Wkts, Ave, Result and margin using EquiJoin between two tables.
+21. To display the winner country name and its opposition during world cup 2015?
+22. To display the Ground name where third highest maximum runs scored in 21st century
+23. To display the bowler name who had taken fifer in 2019 world cup
+24. To display the batsman name who had scored 200 in 2015 world cup
+25. To display the team name and the year where the team had set a target of 200+ score against australia and lost the match
+26. To display the bowler name who had  a second highest SR in 21st scentury
+27. To display the country name who posed the lowest score during 2019 world cup while winning the toss
+28. To display the country name who scored at rpo of greater than 5 and won the match
+29. List the stadiums in india where more than 3 matches are played and never a match tied 
+30. To display the bowler name and the country name where ID = 51880 using PL SQL 
