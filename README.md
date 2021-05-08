@@ -11,13 +11,19 @@ https://www.kaggle.com/venky73/icc-cricket-world-cup-2019-analysis
 
 **EXPLANATION:**
 
+Folder Data Visualization contains visualization queries separately for all the tables in our database. 
+
+Folder Front-end contains the html,css and javascript files for our frontend part.
+
+Folder SQL Queries contains all the queries,output images,er diagram and the database files.
+
 In the database that you created for the Mini Project, formulate and execute each of the following queries in SQL. In each case, you should attempt to handle the task  without using views.
 
 1.File named cricket_analysis.sql should contain the complete script with which you constructed your database (i.e., all CREATE and all INSERT statements).
 
 2.File SQL querries.pdf contains all the the DBMS questions.
 
-3.Folder Output_Images contains all the images of  the output of the execution of the script cricket_analysis.sql.
+3.Folder Output Images contains all the images of  the output of the execution of the script cricket_analysis.sql.
 
 4.Image cricket_stats_er.jpg contains the ER Diagram of the database.
 
@@ -55,7 +61,7 @@ In the database that you created for the Mini Project, formulate and execute eac
 
 **Thank you**
 
-**SAMPLE IMAGES:**
+**SAMPLE IMAGES FRONTEND:**
 
 **1.Home Page:**
 
