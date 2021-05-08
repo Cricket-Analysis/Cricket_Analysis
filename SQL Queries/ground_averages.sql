@@ -46,7 +46,7 @@ CREATE TABLE `ground_averages` (
 --
 
 INSERT INTO `ground_averages` (`Ground`, `Span`, `Mat`, `Won`, `Tied`, `NR`, `Runs`, `Wkts`, `Balls`, `Ave`, `RPO`) VALUES
-('Adelaide Oval - Australia', '2013-2019', 10, 10, 0, 0, 4863, 157, 5645, '30.97', '5.16'),
+('Adelaide Oval - Australia', '2013-2019', 10, 10, 0, 0, 13500, 157, 5645, '30.97', '5.16'),
 ('Affies Park, Windhoek - Namibia', '2019-2019', 1, 1, 0, 0, 329, 15, 460, '21.93', '4.29'),
 ('Amini Park, Port Moresby - P.N.G.', '2017-2017', 2, 2, 0, 0, 862, 34, 1145, '25.35', '4.51'),
 ('Barabati Stadium, Cuttack - India', '2014-2017', 2, 2, 0, 0, 1304, 29, 1136, '44.96', '6.88'),
