@@ -1,5 +1,12 @@
 # Cricket_Analysis
-**AIM:** Create SQL Database and run 20 queries assignment for DBMS Mini Project
+**AIM:** Create a frontend end for a SQL Database and solve 30 queries as an assignment for DBMS Mini Project.
+
+**DECLARITION**
+You can refer this link for viewing the frontend:-
+https://cricket-analysis.github.io/Cricket_Analysis/
+
+For downloading the database file  you can refer this link:-
+https://www.kaggle.com/venky73/icc-cricket-world-cup-2019-analysis
 
 **EXPLANATION:**
 In the database that you created for the Mini Project, formulate and execute each of the following queries in SQL. In each case, you should attempt to handle the task  without using views.
@@ -43,3 +50,24 @@ In the database that you created for the Mini Project, formulate and execute eac
 28. To display the country name who scored at rpo of greater than 5 and won the match
 29. List the stadiums in india where more than 3 matches are played and never a match tied 
 30. To display the bowler name and the country name where ID = 51880 using PL SQL 
+
+**Thank you**
+
+SAMPLE IMAGES:
+
+1.Home Page:
+![31](https://user-images.githubusercontent.com/64826389/117533891-b5bb9e00-b00c-11eb-8545-d6a052931ee2.PNG)
+
+2.Database Page:
+![32](https://user-images.githubusercontent.com/64826389/117533982-2367ca00-b00d-11eb-82ed-bddae7fde399.PNG)
+
+3.Locate Us Page:
+![33](https://user-images.githubusercontent.com/64826389/117534042-66c23880-b00d-11eb-915a-58b0447f941b.PNG)
+
+4.Visualization Page:
+![34](https://user-images.githubusercontent.com/64826389/117534060-7772ae80-b00d-11eb-825f-202b1c278dc3.PNG)
+
+
+
+
+
