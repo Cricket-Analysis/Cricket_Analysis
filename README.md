@@ -2,10 +2,11 @@
 **AIM:** Create a frontend end for a SQL Database and solve 30 queries as an assignment for DBMS Mini Project.
 
 **DECLARITION**
-You can refer this link for viewing the frontend:-
-https://cricket-analysis.github.io/Cricket_Analysis/
 
-For downloading the database file  you can refer this link:-
+You can refer this link for viewing the frontend:-
+https://cricket-analysis.github.io/Cricket-Analysis-Front-end/
+
+You can refer this link for csv format of the database file:-
 https://www.kaggle.com/venky73/icc-cricket-world-cup-2019-analysis
 
 **EXPLANATION:**
@@ -55,16 +56,16 @@ In the database that you created for the Mini Project, formulate and execute eac
 
 SAMPLE IMAGES:
 
-1.Home Page:
+**1.Home Page:**
 ![31](https://user-images.githubusercontent.com/64826389/117533891-b5bb9e00-b00c-11eb-8545-d6a052931ee2.PNG)
 
-2.Database Page:
+**2.Database Page:**
 ![32](https://user-images.githubusercontent.com/64826389/117533982-2367ca00-b00d-11eb-82ed-bddae7fde399.PNG)
 
-3.Locate Us Page:
+**3.Locate Us Page:**
 ![33](https://user-images.githubusercontent.com/64826389/117534042-66c23880-b00d-11eb-915a-58b0447f941b.PNG)
 
-4.Visualization Page:
+**4.Visualization Page:**
 ![34](https://user-images.githubusercontent.com/64826389/117534060-7772ae80-b00d-11eb-825f-202b1c278dc3.PNG)
 
 
