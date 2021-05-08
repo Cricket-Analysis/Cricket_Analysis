@@ -23,7 +23,7 @@ In the database that you created for the Mini Project, formulate and execute eac
 
 2.File SQL querries.pdf contains all the the DBMS questions.
 
-3.Folder Output Images contains all the images of  the output of the execution of the script cricket_analysis.sql.
+3.Folder Output Images contains all the images of  the output of the execution of the SQL querries using the script cricket_analysis.sql.
 
 4.Image cricket_stats_er.jpg contains the ER Diagram of the database.
 
